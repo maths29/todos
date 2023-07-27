@@ -1,4 +1,4 @@
-<a name="readme-top"></a>
+<a name="react todos"></a>
 
 <!--
 !!! IMPORTANT !!!
@@ -63,13 +63,13 @@ For more information on the importance of a professional README for your reposit
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [react todos] <a name="about-react todos"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[react todos]** is a...
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With <a name="react,ES6"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -147,7 +147,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone https://github.com/maths29/todos
 ```
 --->
 
