@@ -1,21 +1,3 @@
-/* body{
-    background-color: #ff0000;
-
-}
-
-.todo{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-items: center;
-}
-
-.Todo List{
-    list-style: none;
-} */
-
-
-
 * {
     box-sizing: border-box;
   }
