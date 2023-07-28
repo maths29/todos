@@ -1,6 +1,6 @@
-body{
+/* body{
     background-color: #ff0000;
-    
+
 }
 
 .todo{
@@ -12,4 +12,84 @@ body{
 
 .Todo List{
     list-style: none;
-}
+} */
+
+
+
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    padding: 50px;
+  }
+  
+  .todo {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 5px #ff5f13;
+    border-radius: 20px;
+    padding: 20px;
+  }
+  
+  h2 {
+    margin: 0 0 10px 0;
+    padding: 0;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    font-weight: 900;
+    text-align: center;
+    color: #333;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ff5f13;
+  }
+  
+  input {
+    padding: 5px;
+    margin-right: 5px;
+    border-radius: 5px;
+    border: 1px solid #ff5f13;
+    font-size: 1em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #333;
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-color: #ff5f13;
+    border: none;
+    font-size: 1em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 50%;
+    text-transform: uppercase;
+    font-weight: 900;
+    color: #fff;
+  }
+  
+  button:hover {
+    background-color: #333;
+    cursor: pointer;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin: 5px 0;
+    padding: 5px;
+    background-color: #fdb797;
+    border-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #333;
+    font-size: 1em;
+    font-weight: 900;
+  
+    text-align: left;
+  }
